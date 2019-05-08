@@ -1,2 +1,5 @@
 1) index.html 
-  CSS issue with: HR has a triangle on the bottom right. I 
+  CSS issue with: HR has a triangle on the bottom right.
+  
+2) Challenges - Bacon
+  CSS sheet not connected?
